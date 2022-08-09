@@ -6,3 +6,6 @@ i will be devops engineer one day for sure
 {
 new love new job
 }
+{
+branching startegy
+}
